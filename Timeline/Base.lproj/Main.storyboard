@@ -395,7 +395,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iCa-FA-REP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1942" y="675"/>
+            <point key="canvasLocation" x="1944" y="602"/>
         </scene>
         <!--Search-->
         <scene sceneID="vqk-aB-nO8">
@@ -496,7 +496,6 @@
         <!--Tab Bar Controller-->
         <scene sceneID="vnr-z7-Ili">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="7Ts-MU-TLO" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <tabBarController id="6RQ-Zb-2q3" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" id="zPh-eN-0D4">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
@@ -512,6 +511,7 @@
                         <segue destination="EkN-rp-Svt" kind="relationship" relationship="viewControllers" id="GTK-io-FSO"/>
                     </connections>
                 </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7Ts-MU-TLO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="143" y="-7"/>
         </scene>
